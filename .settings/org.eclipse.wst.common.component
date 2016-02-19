@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="OurSpaceR01">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="SoenEA.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/SoenEA/SoenEA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="OurSpaceR01"/>
+        <property name="java-output-path" value="/OurSpaceR01/build/classes"/>
+    </wb-module>
+</project-modules>

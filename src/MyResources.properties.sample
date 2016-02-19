@@ -1,0 +1,5 @@
+mySqlHostName=mysql.dsrg.org:3306
+mySqlUserName=YOUR-MYSQL-USER-ID-GOES-HERE
+mySqlPassword=YOU-MYSQL-ACCOUNT-PASSWORD-GOES-HERE
+mySqlDatabase=NAME-OF-YOUR-DB-GOES-HERE?characterEncoding=utf8
+mySqlTablePrefix=Exp_
